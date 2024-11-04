@@ -12,7 +12,7 @@ Docker is a set of platform as a service (PaaS) products that use OS-level virtu
 ![image](https://github.com/user-attachments/assets/85aa5c7b-25e3-40b3-87d7-e426fc40f55c)
 
 - Execute in Terminal and check if its working fine
-
+     
 ## Step 3: Create a Dockerfile
 ![image](https://github.com/user-attachments/assets/b91499b0-7423-43dd-b7c6-b0cb78504079)
 
