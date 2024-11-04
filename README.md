@@ -8,7 +8,7 @@ Docker is a set of platform as a service (PaaS) products that use OS-level virtu
 - use this command in CMD docker -v to verify installation
 
 ## Step 2: Create a base app.py using Flask
-
+    
 ![image](https://github.com/user-attachments/assets/85aa5c7b-25e3-40b3-87d7-e426fc40f55c)
 
 - Execute in Terminal and check if its working fine
